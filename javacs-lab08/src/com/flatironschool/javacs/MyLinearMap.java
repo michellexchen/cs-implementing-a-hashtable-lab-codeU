@@ -167,7 +167,7 @@ public class MyLinearMap<K, V> implements Map<K, V> {
 			set.add(entry.getValue());
 		}
 		return set;
-	}
+	} 
 	
 	/**
 	 * @param args
